@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SafetyCopier": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\simon\\Pictures\\LindaProfil.png\""
+    }
+  }
+}
